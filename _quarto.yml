@@ -1,0 +1,19 @@
+project:
+  type: book
+book:
+  title: Introduction to Human Biology Laboratory Workbook
+  author:
+  - name: George Mateja
+    affiliations:
+      - The Community College of Baltimore County
+  version: 4
+  date: "2024"
+  chapters:
+    - index.qmd
+    - 01.qmd
+    - att.qmd
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
