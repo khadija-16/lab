@@ -89,21 +89,25 @@ b)  Identify vertebra from different regions by their characteristic features if
 
 ## **Definitions**
 
-Define the following key terms: axial skeleton.
+## Axial Skeleton – Key Terms
 
--   Axial skeleton \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Cranial bones \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Facial bones \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Suture \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Hyoid bone \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Vertebrae \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Cervical \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Thoracic \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Lumbar \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Sacrum \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Coccyx \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Axial skeleton **skull, vertebral column, and thoracic cage; supports and protects vital organs**
 
-## **Prelab Activity 7.2:**
+-   Cranial bones **bones of the skull that protect the brain**
+
+-   Facial bones **bones that form the face and support facial structures**
+
+-   Suture **immovable joint between skull bones**
+
+-   Hyoid bone **U-shaped bone in the neck that supports the tongue**
+
+-   Vertebrae **bones that form the spinal column and protect the spinal cord**
+
+    -   Cervical **neck vertebrae (C1–C7)**
+    -   Thoracic **mid-back vertebrae attached to ribs (T1–T12)**
+    -   Lumbar **lower back vertebrae (L1–L5)**
+    -   Sacrum **fused vertebrae forming back of pelvis**
+    -   Coccyx **tailbone; small fused vertebrae** \## **Prelab Activity 7.2:**
 
 ## **Labeling**
 
@@ -155,7 +159,7 @@ Bone Features: Review the information in table 7.1 before moving on to the next 
 Table 7.1 General Types Bone Features
 
 | Marking    | Description                    | Example                         |
-|------------------|---------------------------|---------------------------|
+|------------|--------------------------------|---------------------------------|
 | Head       | Prominent rounded surface      | Head of femur                   |
 | Facet      | Flat surface                   | Articular facets of vertebrae   |
 | Condyle    | Rounded surface                | Occipital condyle               |
@@ -188,16 +192,18 @@ Note if you are part of an online course and are completing this lab remotely, y
 
 Table 7.2 Review of the Appendicular and Axial Bones
 
-| Bone Name | Bone Shape Classification | Is this an axial or appendicular bone? |
-|-----------------------------|----------------------|----------------------|
-| Facial bone, e.g., maxilla |  |  |
-| Thoracic vertebra |  |  |
-| Scapula (“shoulder” bone) |  |  |
-| Radius (lateral forearm bone) |  |  |
-| Tarsal bones (7 bones of the ankle) |  |  |
-| Phalanges (“finger and toe” bones) |  |  |
-| Ribs |  |  |
-| Patella (“knee” bone) |  |  |
+## Bone Shape Classification
+
+| Bone Name             | Bone Shape Classification | Axial or Appendicular |
+|-----------------------|---------------------------|-----------------------|
+| Facial bone (maxilla) | Irregular                 | Axial                 |
+| Thoracic vertebra     | Irregular                 | Axial                 |
+| Scapula               | Flat                      | Appendicular          |
+| Radius                | Long                      | Appendicular          |
+| Tarsal bones          | Short                     | Appendicular          |
+| Phalanges             | Long                      | Appendicular          |
+| Ribs                  | Flat                      | Axial                 |
+| Patella               | Sesamoid                  | Appendicular          |
 
 ## **Organization of the Skeletal System**
 
@@ -472,7 +478,7 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 **Table 7.3 Match the Term with the Best Definition.**
 
 | Letter | Definition | Term |
-|---------------|-----------------------------------------|----------------|
+|----|----|----|
 | 1\. | The cribriform plate is a surface filled with small foramina on the bone | a\. turbulence |
 | 2\. | The nasal conchae create, which increases the ability of the nose to trap dust. | b\. zygomatic |
 | 3\. | The of the mandible articulate with the temporal bone. | c\. nasal |
@@ -484,7 +490,7 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 **Table 7.4 Match the Term with the Best Definition.**
 
 | Letter | Definition | Term |
-|-------|--------------------------------------------|------------------|
+|----|----|----|
 | 1\. | Main weight bearing portion of the vertebrae | a\. axis |
 | 2\. | Two parts of the vertebral arch that protect the spinal cord | b\. Thoracic vertebra |
 | 3\. | Contains the spinal cord | c\. lumbar vertebrae |
@@ -504,83 +510,83 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 
 **Figure 7.31** Human Skull Illustration (Anterior View).
 
-**Table 7.5 Identify the following bones**
+## Table 7.5 Identify the Following Bones
 
-| Identification number | Bones |
-|-----------------------|-------|
-| 1                     |       |
-| 2                     |       |
-| 3                     |       |
-| 4                     |       |
-| 5                     |       |
-| 6                     |       |
-| 7                     |       |
-| 8                     |       |
-| 9                     |       |
-| 10                    |       |
+| Identification number | Bones          |
+|-----------------------|----------------|
+| 1                     | Frontal bone   |
+| 2                     | Parietal bone  |
+| 3                     | Temporal bone  |
+| 4                     | Occipital bone |
+| 5                     | Sphenoid bone  |
+| 6                     | Ethmoid bone   |
+| 7                     | Nasal bone     |
+| 8                     | Zygomatic bone |
+| 9                     | Maxilla        |
+| 10                    | Mandible       |
 
 ![](images/_page_183_Picture_0.jpeg)
 
 **Figure 7.32** Human Skull Illustration (Lateral View).
 
-**Table 7.6 Identify the Following Bones**
+## Table 7.6 Identify the Following Bones
 
-| Identification number | Bones |
-|-----------------------|-------|
-| 1                     |       |
-| 2                     |       |
-| 3                     |       |
-| 4                     |       |
-| 5                     |       |
-| 6                     |       |
-| 7                     |       |
-| 8                     |       |
-| 9                     |       |
-| 10                    |       |
-| 11                    |       |
+| Identification number | Bones                 |
+|-----------------------|-----------------------|
+| 1                     | Nasal bone            |
+| 2                     | Zygomatic bone        |
+| 3                     | Maxilla               |
+| 4                     | Mandible              |
+| 5                     | Lacrimal bone         |
+| 6                     | Palatine bone         |
+| 7                     | Vomer                 |
+| 8                     | Inferior nasal concha |
+| 9                     | Frontal bone          |
+| 10                    | Sphenoid bone         |
+| 11                    | Ethmoid bone          |
 
 ![](images/_page_184_Picture_0.jpeg)
 
 **Figure 7.33** Inferior aspect of the Skull: Identify the Following Bones and Features.
 
-**Table 7.7 Identify the bones in figure 7.34**
+## Table 7.7 Identify the Bones in Figure 7.34
 
-| Identification number | Bones or features |
-|-----------------------|-------------------|
-| 1                     |                   |
-| 2                     |                   |
-| 3                     |                   |
-| 4                     |                   |
-| 5                     |                   |
-| 6                     |                   |
-| 7                     |                   |
-| 8                     |                   |
-| 9                     |                   |
-| 10                    |                   |
-| 11                    |                   |
-| 12                    |                   |
-| 13                    |                   |
+| Identification number | Bones or features   |
+|-----------------------|---------------------|
+| 1                     | Cervical vertebrae  |
+| 2                     | Atlas (C1)          |
+| 3                     | Axis (C2)           |
+| 4                     | Thoracic vertebrae  |
+| 5                     | Lumbar vertebrae    |
+| 6                     | Sacrum              |
+| 7                     | Coccyx              |
+| 8                     | Intervertebral disc |
+| 9                     | Vertebral body      |
+| 10                    | Spinous process     |
+| 11                    | Transverse process  |
+| 12                    | Vertebral foramen   |
+| 13                    | Pedicle             |
 
 ![](images/_page_185_Figure_0.jpeg)
 
 **Figure 7.34** Superior aspect of the Skull: Identify the Following Bones and Features.
 
-**Table 7.8 Identify the bones in figure 7.35**
+## Table 7.8 Identify the Bones in Figure 7.35
 
-| Identification number | Bones or features |
-|-----------------------|-------------------|
-| 1                     | ID the bone       |
-| 2                     | ID the bone       |
-| 3                     | ID the bone       |
-| 4                     | ID the feature    |
-| 5                     | ID the feature    |
-| 6                     | ID the feature    |
-| 7                     | ID the feature    |
-| 8                     | ID the feature    |
-| 9                     | ID the feature    |
-| 10                    | ID the bone       |
-| 11                    | ID the bone       |
-| 12                    | ID the bone       |
+| Identification number | Bones or features  |
+|-----------------------|--------------------|
+| 1                     | Humerus            |
+| 2                     | Radius             |
+| 3                     | Ulna               |
+| 4                     | Head               |
+| 5                     | Neck               |
+| 6                     | Greater tubercle   |
+| 7                     | Lesser tubercle    |
+| 8                     | Deltoid tuberosity |
+| 9                     | Condyle            |
+| 10                    | Carpals            |
+| 11                    | Metacarpals        |
+| 12                    | Phalanges          |
 
 ![](images/_page_186_Figure_0.jpeg)
 
@@ -592,29 +598,26 @@ Complete the following crossword puzzle.
 
 ![](images/_page_187_Picture_2.jpeg)
 
-**Figure 7.36** Bone Anatomy.
+## Figure 7.36 – Bone Anatomy Crossword
 
-### **Across**
+### Across
 
--   5 The largest opening in the occipital bone (7,6)
--   8 A cavity inside a bone (5)
--   10 The lambdoid suture is formed by articulation of \<which bones\>? (9,0,8)
--   11 The \_\_\_\_\_ bones are found deep to the upper lip; they form part of the 'cheekbone' and the lateral aspects of the bridge of the nose. (7)
--   12 The coronal suture is formed by articulation of the \_\_\_ and \_\_\_ bones (8,7)
+-   5 Foramen magnum\
+-   8 Sinus\
+-   10 Parietal and occipital\
+-   11 Maxilla\
+-   12 Frontal and parietal
 
-### **Down**
+### Down
 
--   1 The cribriform plate is a surface filled with small foramina on the \_\_\_\_\_ bone (7)
--   2 The external acoustic meatus is located in the \_\_\_\_\_ bone. (5,7)
--   3 A fossa is a \_\_\_\_\_. (10)
--   4 The \_\_\_\_\_ suture is formed by articulation of the occipital and parietal bones. (8)
--   6 The mirror-image bones that form the anterior aspect of the bridge of the nose are the \_\_\_\_\_ bones. (5)
--   7 Blood vessels and nerves reach the chin and lower lip through the \_\_\_\_\_ of the mandible (6,8)
--   9 A foramen (pl. foramina) is a \_\_\_\_\_ through a bone (7)
-
-Complete the following identifications.
-
-## **Post Lab Activity 7.4**
+-   1 Ethmoid\
+-   2 Temporal bone\
+-   3 Depression\
+-   4 Lambdoid\
+-   6 Nasal\
+-   7 Mental foramen\
+-   9 Opening\
+    \## **Post Lab Activity 7.4**
 
 Name the bones.
 
@@ -644,7 +647,7 @@ Name the bones.
 |                       | 9 passage         |
 
 | Terms | Definitions |
-|------------------------------------|------------------------------------|
+|----|----|
 | alveolar process of the mandible | upper border of mandibular body that contains the lower teeth |
 | alveolar process of the maxilla | curved, inferior margin of the maxilla that supports and anchors the upper teeth |
 | angle of the mandible | rounded corner located at outside margin of the body and ramus junction |

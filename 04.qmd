@@ -80,55 +80,67 @@ Define the following terms using your textbook or other reliable academic source
 
 **Types of tissues:**
 
--   Epithelial \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Connective \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Muscular \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Nervous \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## Types of Tissues
 
+- Epithelial **covers and lines body surfaces; protection, absorption, secretion**  
+- Connective **supports, binds, and protects tissues; includes bone, blood, fat**  
+- Muscular **produces movement through contraction**  
+- Nervous **transmits electrical signals for communication and control**
 **Epithelial Tissues:**
 
--   Simple squamous \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Stratified squamous (keratinized/nonkeratinized) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Simple cuboidal \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Stratified cuboidal/columnar – rare \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Simple columnar \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Pseudostratified columnar epithelium \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Transitional epithelium \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## Types of Epithelial Tissue
 
+- Simple squamous **thin, flat cells; allows diffusion and filtration (e.g., alveoli, capillaries)**  
+- Stratified squamous (keratinized/nonkeratinized) **many layers; protection from abrasion (keratinized = skin, nonkeratinized = mouth, esophagus)**  
+- Simple cuboidal **cube-shaped cells; secretion and absorption (e.g., kidney tubules, glands)**  
+- Stratified cuboidal/columnar – rare **protection and secretion (e.g., ducts of glands)**  
+- Simple columnar **tall cells; absorption and secretion, often with microvilli (e.g., digestive tract)**  
+- Pseudostratified columnar epithelium **appears layered but is not; secretes mucus and moves it with cilia (e.g., respiratory tract)**  
+- Transitional epithelium **stretches and changes shape; found in urinary bladder**
 **Define the following epithelial features:**
 
--   Epithelial layers:
-    -   Simple \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Stratified \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Surfaces:
-    -   Apical \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Basal \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Basement membrane \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## Epithelial and Connective Tissue Details
 
-**Connective Tissue:**
+### Epithelial layers:
 
--   Cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Areolar connective tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Hyaline cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Adipose tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Fibrocartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Elastic cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Regular dense connective tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Irregular dense connective tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Bone \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Blood – detail in cardiovascular system \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Simple **single layer of cells for diffusion and absorption**  
+- Stratified **multiple layers of cells for protection**  
 
-**Connective Tissue Features:**
+### Surfaces:
 
--   Collagen fibers \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Elastin fibers \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Extracellular matrix \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Cells \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Fibroblasts \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Adipocytes \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Chondrocytes \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Lacuna \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Apical **free surface exposed to lumen or outside**  
+- Basal **attached surface anchored to basement membrane**  
+- Basement membrane **thin layer that supports and anchors epithelium to connective tissue**  
 
+---
+
+## Connective Tissue:
+
+- Cartilage **flexible support tissue**  
+- Areolar connective tissue **loose tissue that supports and binds organs**  
+- Hyaline cartilage **smooth cartilage for support and joint movement**  
+- Adipose tissue **stores fat and provides insulation**  
+- Fibrocartilage **strong cartilage that resists compression (e.g., intervertebral discs)**  
+- Elastic cartilage **flexible cartilage (e.g., ear)**  
+- Regular dense connective tissue **parallel fibers for strength (e.g., tendons)**  
+- Irregular dense connective tissue **irregular fibers for strength in many directions**  
+- Bone **rigid tissue for support and protection**  
+- Blood – detail in cardiovascular system **fluid connective tissue for transport**  
+
+---
+
+## Connective Tissue Features:
+
+- Collagen fibers **provide strength and resistance to stretching**  
+- Elastin fibers **allow stretching and recoil**  
+- Extracellular matrix **non-living material that surrounds cells**  
+- Cells **living components that produce fibers and matrix**  
+
+  - Fibroblasts **produce fibers and matrix**  
+  - Adipocytes **store fat**  
+  - Chondrocytes **maintain cartilage**  
+
+- Lacuna **small space that houses cells in cartilage or bone**  
 ## **Lab Activities**
 
 ### **Lab Activity 4.1**
@@ -141,30 +153,16 @@ The shape of the cells in a single layer is indicative of the function of the ce
 
 ### **Lab Activities**
 
-![](images/_page_79_Figure_6.jpeg)
+## Activity 4.1 – Identification of Epithelial Tissues
 
-**Figure 4.2** Identification of Epithelial Tissues.
-
-## **Procedure for Activity 4.1**
-
-Use the pictures in the table below to review several tissue types, locate the epithelial features, and determine how the anatomy of the tissue enables its functions.
-
-1.  Using your textbook identify the tissues in the pictures in the table below.
-2.  Examine the provided histology slides.
-3.  In the picture of pseudostratified ciliated columnar epithelium, locate cilia and a goblet cell, then label them. Refer to the information and figures above or reliable internet sources for assistance. Check with your instructor to verify your accuracy.
-4.  In the picture of simple columnar epithelium, locate nuclei, then label one. Check with your instructor to verify your accuracy.
-5.  In the picture of simple columnar epithelium, locate the apical edge and the basal edge, then label them. Check with your instructor to verify your accuracy.
-6.  For each tissue, describe how the anatomy of the tissue enables its functions.
-
-| Image                                         | Name | Location | Function |
-|-----------------------------------------------|------|----------|----------|
-| ![Figure 4.3](images/ch4_0.jpg)**Figure 4.3** |      |          |          |
-| ![Figure 4.4](images/ch4_1.jpg)**Figure 4.4** |      |          |          |
-| ![Figure 4.5](images/ch4_2.jpg)**Figure 4.5** |      |          |          |
-| ![Figure 4.6](images/ch4_3.jpg)**Figure 4.6** |      |          |          |
-| ![Figure 4.7](images/ch4_4.jpg)**Figure 4.7** |      |          |          |
-| ![Figure 4.8](images/ch4_5.jpg)**Figure 4.8** |      |          |          |
-
+| Image | Name | Location | Function |
+|------|------|----------|----------|
+| ![](images/ch4_0.jpg) | Simple squamous | Lungs | Diffusion |
+| ![](images/ch4_1.jpg) | Stratified squamous | Skin | Protection |
+| ![](images/ch4_2.jpg) | Simple cuboidal | Kidney | Secretion/absorption |
+| ![](images/ch4_3.jpg) | Simple columnar | Intestine | Absorption |
+| ![](images/ch4_4.jpg) | Pseudostratified columnar | Trachea | Move mucus |
+| ![](images/ch4_5.jpg) | Transitional | Bladder | Stretching |
 ### **Terms:**
 
 ## **Epithelial Tissues:**
@@ -194,13 +192,15 @@ Use the pictures in the table below to review several tissue types, locate the e
 
 Using a light microscope review the tissues assigned by your Lab Instructor at a magnification of 400x. Draw and label each tissue type in the spaces provided. Your information should provide where it would be found in the body along with the magnification of the tissue.
 
+## Tissue Identification
+
 | Tissue              | Magnification | Location |
 |---------------------|---------------|----------|
-| Simple squamous     |               |          |
-| Simple cuboidal     |               |          |
-| Simple columnar     |               |          |
-| Transitional        |               |          |
-| Stratified Squamous |               |          |
+| Simple squamous     | 400x          | Lungs (alveoli) |
+| Simple cuboidal     | 400x          | Kidney tubules |
+| Simple columnar     | 400x          | Intestine |
+| Transitional        | 400x          | Bladder |
+| Stratified squamous | 400x          | Skin |            |          |
 
 ## **Connective Tissue**
 
@@ -263,29 +263,42 @@ a)  Structural Connective Tissue
 -   Draw and label each tissue type in the spaces provided. Your information should provide where it would be found in the body along with the magnification of the tissue.
 -   Take a picture of each tissue type for your use later when preparing for a lab practical.
 
+## Connective Tissue Identification
+
 | Tissue                          | Magnification | Location |
 |---------------------------------|---------------|----------|
-| Areolar                         |               |          |
-| Adipose                         |               |          |
-| Dense regular connective tissue |               |          |
-| Blood                           |               |          |
-| Hyaline cartilage               |               |          |
-| Fibrocartilage                  |               |          |
-| Elastic cartilage               |               |          |
-| Bone                            |               |          |
-
+| Areolar                         | 400x          | Under epithelium |
+| Adipose                         | 400x          | Under skin |
+| Dense regular connective tissue | 400x          | Tendons |
+| Blood                           | 1000x         | Blood vessels |
+| Hyaline cartilage               | 400x          | Trachea |
+| Fibrocartilage                  | 400x          | Intervertebral discs |
+| Elastic cartilage               | 400x          | Ear |
+| Bone                            | 400x          | Skeleton |
 ## **Post Lab Activities**
 
 ## **Post Lab Activity 4.1**
 
 ## **Test your understanding.**
 
--   Discuss the two ways how epithelium can be classified.
-    -   Use examples of how the structure and shape of the epithelium influences the function it serves in the area of the body in which it is located.
--   With Respect to the tissues
-    -   Name the major tissue types found in the human body.
-    -   Describe their general characteristics and give an example of where they can be found.
--   The \_\_\_\_\_\_ tissue contains an apical surface.
+## Tissue Questions
+
+- Epithelium is classified in two ways:
+  - By number of layers: simple (one layer) vs stratified (multiple layers)
+  - By cell shape: squamous (flat), cuboidal (cube), columnar (tall)
+
+- Structure and function examples:
+  - Simple squamous: thin → allows diffusion (lungs)
+  - Stratified squamous: many layers → protection (skin)
+  - Simple columnar: tall cells → absorption (intestine)
+
+- Major tissue types:
+  - Epithelial: covers surfaces (skin)
+  - Connective: supports and binds (bone)
+  - Muscle: movement (skeletal muscle)
+  - Nervous: communication (brain)
+
+- The **epithelial** tissue contains an apical surface.
 
 ## **Post Lab Activity 4.2**
 
@@ -326,23 +339,25 @@ Match the following tissue with its function or location.
 
 ![](images/_page_90_Picture_3.jpeg)
 
-### **Across**
+## Tissue Crossword Answers
 
--   4 kidney glomeruli and alveoli of lungs (6,8,10)
--   5 Carry action potentials throughout the body (6)
--   7 Cells that nourish and support (5,4)
--   9 Protects underlying tissues from abrasion (10,8,10)
--   11 Function: secretion and absorption (6,8,10)
--   12 Attached to the bones, occasionally to the skin (8,6)
+### Across
 
-### **Down**
+- 4 Simple squamous epithelium  
+- 5 Neurons  
+- 7 Neuroglia cells  
+- 9 Stratified squamous epithelium  
+- 11 Simple columnar epithelium  
+- 12 Skeletal muscle  
 
--   1 Tendons and ligaments (5,7,10,6)
--   2 Functions as a binding tissue (5,10,6)
--   3 Mineral storage (4)
--   6 Covers the ends of long bones in joint cavities (7,9)
--   8 Contracts, propels blood in the circulation (7,6)
--   10 Mostly in the walls of hollow organs. (6,6)
+### Down
+
+- 1 Dense regular connective tissue  
+- 2 Areolar connective tissue  
+- 3 Bone  
+- 6 Hyaline cartilage  
+- 8 Cardiac muscle  
+- 10 Smooth muscle  
 
 ## **Additional tissue review materials**
 
