@@ -48,7 +48,7 @@ Using your textbook define or identify the following terms.
 ## Epidermal Layer
 
 | Term | Definition |
-|----|----|
+|---------------------------------------------------|---------------------|
 | Epidermis | Outer layer of skin; protection |
 | Stratum corneum | Dead, keratinized cells; barrier |
 | Stratum lucidum | Clear layer in thick skin only |
@@ -62,13 +62,13 @@ Using your textbook define or identify the following terms.
 ## Dermis and Hypodermis
 
 | Term            | Definition                                               |
-|-----------------|----------------------------------------------------------|
+|------------------------------------------|------------------------------|
 | Dermis          | Inner skin layer; contains blood vessels, nerves, glands |
 | Papillary layer | Superficial dermis; loose tissue with capillaries        |
 | Reticular layer | Deep dermis; dense tissue for strength and elasticity    |
 
 | Term | Definition |
-|----|----|
+|----------------------------------------------------|--------------------|
 | Subcutaneous Layer (Hypodermis) | Fat layer; insulation, energy storage, anchors skin |
 
 **Integumentary Structures**
@@ -76,7 +76,7 @@ Using your textbook define or identify the following terms.
 ## Skin Structures
 
 | Term | Definition |
-|----|----|
+|----------------------------------------------------|--------------------|
 | Dermal papillae | Projections that increase surface area and nutrient exchange |
 | Hair shaft | Visible part of hair above skin |
 | Hair root | Part of hair below skin |
@@ -154,7 +154,7 @@ The Integumentary system functions include but are not limited to the following 
 ## Epidermal Layers – Major Features
 
 | Epidermal Layer               | Major Features                             |
-|-------------------------------|--------------------------------------------|
+|-----------------------------------------------|-------------------------|
 | Stratum corneum               | Dead keratinized cells; protective barrier |
 | Stratum lucidum               | Clear layer in thick skin only             |
 | Stratum granulosum            | Keratin production; cells begin to die     |
@@ -257,7 +257,7 @@ Describe the function of each of the listed dermal structures.
 ## Dermal Structures – Functions
 
 | Dermal Structure                | Function(s)                              |
-|---------------------------------|------------------------------------------|
+|---------------------------------------------------|---------------------|
 | Dermal papillae                 | Increase surface area; nourish epidermis |
 | Pore                            | Opening for sweat and oil release        |
 | Arrector pili muscle            | Raises hair (goosebumps)                 |
@@ -369,7 +369,7 @@ Using a model or diagram of the integumentary system, identify and describe the 
 ## **Table 5.4 Matching: Write the Letter of the Definition in the Column to the Left of the Term**
 
 | \# | Terms | Definitions |
-|----|----|----|
+|--------------|--------------|-------------------------------------------|
 | 1 | Pore | a\. The part of a hair projecting beyond the surface of the skin |
 | 2 | Arrector pili muscle | b\. An onion-shaped structure that is responsible for sensitivity to vibration and pressure |
 | 3 | Meissner's corpuscle | c\. Any of the small sacculated glands lodged in the substance of the derma, usually opening into the hair follicles, and secreting an oily material |
@@ -417,7 +417,7 @@ Match the statement blank with the correct answer.
 ## Integumentary System Matching
 
 | Answer | Statement | Correct Answer |
-|----|----|----|
+|----------------|----------------------------------------|----------------|
 | a\. | The epidermis is composed of \_\_\_\_\_\_\_\_\_\_. | squamous epithelial tissue |
 | b\. | The deepest layer of the epidermis. | stratum basale |
 | c\. | The majority of the cells of the epidermis are \_\_\_\_\_\_\_\_\_\_, so-called because they make \_\_\_\_\_\_\_\_\_\_. | keratinocytes; keratin |
@@ -521,7 +521,7 @@ Using the picture below, identify the substructures within the following accesso
 ------------------------------------------------------------------------
 
 |   | List three major types of glands associated with the integumentary system and describe their function. |
-|----|----|
+|-------------|----------------------------------------------------------|
 | a\) | Sebaceous glands – secrete oil (sebum) |
 | b\) | Eccrine (merocrine) glands – produce sweat for cooling |
 | c\) | Apocrine glands – produce thicker sweat (odor) |
@@ -529,7 +529,7 @@ Using the picture below, identify the substructures within the following accesso
 ------------------------------------------------------------------------
 
 |     | What are the three protective functions of the integumentary system? |
-|-----|----------------------------------------------------------------------|
+|-------------|----------------------------------------------------------|
 | a\) | Protection from physical damage                                      |
 | b\) | Protection from pathogens                                            |
 | c\) | Prevents water loss                                                  |
@@ -551,7 +551,7 @@ Using the picture below, identify the substructures within the following accesso
 ------------------------------------------------------------------------
 
 | 1\) | List the five layers of the epidermis found in thick skin. Indicate which layer is not present in thin skin. |
-|----|----|
+|-------------|-----------------------------------------------------------|
 | a\) | Stratum basale |
 | b\) | Stratum spinosum |
 | c\) | Stratum granulosum |
@@ -561,7 +561,7 @@ Using the picture below, identify the substructures within the following accesso
 ------------------------------------------------------------------------
 
 | 2\) | Identify four accessory structures found in the dermis, describe their function. |
-|----|----|
+|-------------|-----------------------------------------------------------|
 | a\) | Hair follicle – produces hair |
 | b\) | Sebaceous gland – secretes oil |
 | c\) | Sweat gland – produces sweat |
@@ -587,7 +587,7 @@ Using the picture below, identify the substructures within the following accesso
 **Chapter 5: Integumentary System**
 
 | Key Terms | Definitions |
-|----|----|
+|-----------------------|-------------------------------------------------|
 | acne | skin condition due to infected sebaceous glands |
 | albinism | genetic disorder that affects the skin, in which there is no melanin production |
 | apocrine sweat gland | sweat gland that is armpits and genital regions |

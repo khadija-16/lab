@@ -93,34 +93,37 @@
 
 ## **Prelab Activity 8.1: Definitions**
 
-### Appendicular Skeleton
+## Appendicular Skeleton
 
--   Pectoral girdle \_\_\_\_\_\_\_\_\_\_\_\_\_
--   Clavicle \_\_\_\_\_\_\_\_\_\_\_\_\_
--   Scapula \_\_\_\_\_\_\_\_\_\_\_\_\_
--   Humerus \_\_\_\_\_\_\_\_\_\_\_\_\_
--   Radius \_\_\_\_\_\_\_\_\_\_\_\_\_
--   Ulna \_\_\_\_\_\_\_\_\_\_\_\_\_
--   Carpals \_\_\_\_\_\_\_\_\_\_\_\_\_
--   Metacarpals \_\_\_\_\_\_\_\_\_\_\_\_\_
--   Digits (phalanges) \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Pectoral girdle **attaches upper limbs to trunk**\
+-   Clavicle **collarbone; connects arm to sternum**\
+-   Scapula **shoulder blade; muscle attachment**\
+-   Humerus **upper arm bone**\
+-   Radius **lateral forearm bone (thumb side)**\
+-   Ulna **medial forearm bone**\
+-   Carpals **wrist bones**\
+-   Metacarpals **palm bones**\
+-   Digits (phalanges) **finger bones**
 
-### Pelvic Girdle
+------------------------------------------------------------------------
 
-1.  Os Coxa \_\_\_\_\_\_\_\_\_\_\_\_\_
-2.  Femur \_\_\_\_\_\_\_\_\_\_\_\_\_
-3.  Tibia \_\_\_\_\_\_\_\_\_\_\_\_\_
-4.  Fibula \_\_\_\_\_\_\_\_\_\_\_\_\_
-5.  Tarsals \_\_\_\_\_\_\_\_\_\_\_\_\_
-6.  Metatarsals \_\_\_\_\_\_\_\_\_\_\_\_\_
-7.  Phalanges (digits) \_\_\_\_\_\_\_\_\_\_\_\_\_
+## Pelvic Girdle
 
-### Other Definitions
+1.  Os Coxa **hip bone; supports body weight**\
+2.  Femur **thigh bone; longest bone**\
+3.  Tibia **shin bone; weight-bearing**\
+4.  Fibula **lateral lower leg; support**\
+5.  Tarsals **ankle bones**\
+6.  Metatarsals **foot bones**\
+7.  Phalanges (digits) **toe bones**
 
-1.  Ligaments \_\_\_\_\_\_\_\_\_\_\_\_\_
-2.  Tendons \_\_\_\_\_\_\_\_\_\_\_\_\_
+------------------------------------------------------------------------
 
-## **Prelab Activity 8.2**
+## Other Definitions
+
+1.  Ligaments **connect bone to bone**\
+2.  Tendons **connect muscle to bone**\
+    \## **Prelab Activity 8.2**
 
 Label the appendicular skeletal bones.
 
@@ -434,23 +437,26 @@ Complete the crossword puzzle.
 
 ### **Across**
 
--   6 The \_\_\_\_\_, formed by all three bones that make up the coxal bone, articulates with the femur. (10)
--   7 The lateral end of the clavicle articulates with the \_\_\_\_\_ of the \_\_\_\_\_. (8,7)
--   8 The shoulder girdle consists of the \_\_\_\_\_ and the \_\_\_\_\_. (8,9)
--   11 The \_\_\_\_\_ is formed by the two hip bones, the sacrum, and the coccyx. (6)
--   12 The medial end of the clavicle articulates with the \_\_\_\_\_. (7)
+## Appendicular Skeleton Crossword
 
-### **Down**
+### Across
 
--   1 The upper limbs are attached to the trunk by the \_\_\_\_\_ girdle (8)
--   2 The superior surface of the \_\_\_\_\_ of the \_\_\_\_\_ articulates with the capitulum of the humerus. (4,6)
--   3 The \_\_\_\_\_ of the scapula articulates with the humerus. (7,6)
--   4 The hip bones are called the \_\_\_\_\_. (5,5)
--   5 Three bones fuse to form each coxal bone. The superior portion of the coxal bone is formed by the \_\_\_\_\_. (5)
--   9 The heads of the metacarpals articulate with the \_\_\_\_\_. (9)
--   10 The \_\_\_\_\_ forms the posteroinferior portion of the coxal bone. (7)
+-   6 Acetabulum\
+-   7 Acromion, scapula\
+-   8 Clavicle and scapula\
+-   11 Pelvis\
+-   12 Sternum
 
-## **Answer keys**
+### Down
+
+-   1 Pectoral\
+-   2 Head, radius\
+-   3 Glenoid cavity\
+-   4 Coxal bones\
+-   5 Ilium\
+-   9 Phalanges\
+-   10 Ischium\
+    \## **Answer keys**
 
 ## **Appendicular Skeleton**
 
@@ -463,7 +469,7 @@ Sternum.
 **Chapter 8: Skeletal System: Appendicular Division Glossary**
 
 | Terms | Definitions |
-|----------------|--------------------------------------------------------|
+|----|----|
 | acetabulum | large, cup-shaped cavity located on the lateral side of the hip bone; formed by the junction of the ilium, pubis, and ischium portions of the hip bone |
 | acromial end of the clavicle | lateral end of the clavicle that articulates with the acromion of the scapula |
 | acromial process | acromion of the scapula |

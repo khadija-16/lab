@@ -8,90 +8,98 @@
 
 The objectives of this lab are to complete the following:
 
-## **Muscle Tissue:**
+## Muscle Tissue
 
--   Identify where you can find each muscle tissue in the body.
--   Compare and contrast the three muscle tissue types.
--   Skeletal muscle
-    -   Long cord-like, nonbranching
-    -   Voluntary
-    -   Striations
-    -   Multiple Nuclei
--   Smooth muscle
-    -   Tapered
-    -   Involuntary
-    -   Single nucleus
-    -   Not striated
--   Cardiac muscle
-    -   branching
-    -   Striations
-    -   Intercalated discs
-    -   Single Nucleus
+### Locations
 
-**In a model or diagram of the muscle fiber**, describe the locations and functions of the following structures:
+- Skeletal muscle **attached to bones (e.g., arms, legs)**  
+- Smooth muscle **walls of organs (stomach, intestines, blood vessels)**  
+- Cardiac muscle **heart only**  
 
--   Endomysium
+---
 
--   Sarcolemma
+### Comparison of Muscle Types
 
--   T-tubule
+| Feature | Skeletal Muscle | Smooth Muscle | Cardiac Muscle |
+|--------|-----------------|---------------|----------------|
+| Shape | Long, cylindrical | Tapered (spindle-shaped) | Branching |
+| Control | Voluntary | Involuntary | Involuntary |
+| Striations | Yes | No | Yes |
+| Nuclei | Multiple | Single | Single |
+| Special features | Attached to bones | Lines organs | Intercalated discs |
 
--   Mitochondria
+---
 
--   Sarcoplasmic reticulum
+### Key Characteristics
 
--   Sarcomere
+- Skeletal muscle  
+  - Long cord-like, nonbranching  
+  - Voluntary  
+  - Striated  
+  - Multiple nuclei  
 
--   Myofibril
+- Smooth muscle  
+  - Tapered cells  
+  - Involuntary  
+  - Non-striated  
+  - Single nucleus  
 
--   Myofibril
+- Cardiac muscle  
+  - Branching cells  
+  - Striated  
+  - Intercalated discs  
+  - Single nucleus  
+## Muscle Fiber Structures
 
--   Neuromuscular junction (NMJ)
+- Endomysium **thin connective tissue around each muscle fiber; supports and protects**  
+- Sarcolemma **cell membrane of muscle fiber; conducts signals**  
+- T-tubule **invaginations of sarcolemma; carry signals deep into cell**  
+- Mitochondria **produce ATP (energy for contraction)**  
+- Sarcoplasmic reticulum **stores and releases calcium for contraction**  
+- Sarcomere **functional unit of contraction (Z line to Z line)**  
+- Myofibril **bundles of contractile proteins inside fiber**  
+- Neuromuscular junction (NMJ) **site where neuron communicates with muscle fiber**  
 
-**In a model or diagram of skeletal muscle (cross-section),** describe the locations and functions of the following:
+---
 
--   Epimysium
+## Skeletal Muscle (Cross Section)
 
--   Perimysium
+- Epimysium **outer layer around entire muscle**  
+- Perimysium **surrounds fascicles (bundles of fibers)**  
+- Fascicle **bundle of muscle fibers**  
+- Endomysium **surrounds each muscle fiber**  
+- Muscle fiber **individual muscle cell**  
 
--   Fascicle
+---
 
--   Endomysium
+## Myofibril Structure
 
--   Muscle fiber
+- Myofilaments **protein filaments responsible for contraction**  
 
-**In a model or diagram of skeletal muscle myofibril**, label and describe the locations and functions of the following:
+  - Z disc **boundary of sarcomere; anchors actin**  
+  - M line **center of sarcomere; anchors myosin**  
+  - I band **light region; thin filaments only**  
+  - H zone **center region; thick filaments only**  
+  - A band **dark region; thick + thin overlap**  
 
--   Myofilaments
-    -   Z disc (line)
-    -   M line
-    -   I band.
-    -   H zone
-    -   A band
--   Thick filament
--   Myosin
--   Thin filament
--   Actin
--   Troponin
--   Tropomyosin
+- Thick filament **myosin; pulls during contraction**  
+- Myosin **motor protein that generates force**  
+- Thin filament **actin; pulled by myosin**  
+- Actin **protein forming thin filament**  
+- Troponin **binds calcium to allow contraction**  
+- Tropomyosin **blocks/unblocks actin binding sites**  
 
-**In a model or diagram** of the neuromuscular junction, describe the structure and functions of the neuromuscular junction:
+---
 
--   Axon
+## Neuromuscular Junction (NMJ)
 
--   Axon terminals
-
--   Synaptic vesicles
-
--   Synaptic cleft
-
--   Synaptic vesicles
-
--   Acetylcholine
-
--   Motor neuron
-
--   Axon terminal
+- Axon **nerve fiber carrying signal**  
+- Axon terminals **end of neuron; releases neurotransmitter**  
+- Synaptic vesicles **store acetylcholine (ACh)**  
+- Synaptic cleft **gap between neuron and muscle**  
+- Acetylcholine (ACh) **neurotransmitter that triggers contraction**  
+- Motor neuron **nerve cell controlling muscle**  
+- Axon terminal **releases ACh to muscle fiber**  
 
 ![](images/_page_249_Figure_0.jpeg)
 
@@ -102,35 +110,35 @@ Figure 10.2 Skeletal Muscle Fiber.
 ## **Prelab Activity 10.1**
 
 ## **Definitions Muscle Structures**
+## Muscle Structure Terms
 
 | Term                    | Definition |
 |-------------------------|------------|
-| tendon                  |            |
-| epimysium               |            |
-| fascicle                |            |
-| muscle fiber            |            |
-| endomysium              |            |
-| sarcolemma              |            |
-| nucleus                 |            |
-| sarcoplasm              |            |
-| mitochondria            |            |
-| sarcoplasmic reticulum  |            |
-| T or transverse tubules |            |
-| myofibrils              |            |
-| myofilaments            |            |
-| actin                   |            |
-| tropomyosin             |            |
-| Thin filament           |            |
-| Thick filament          |            |
-| Myofibrils              |            |
-| Myofibril Structure     |            |
-| sarcomere               |            |
-| Z discs                 |            |
-| M line                  |            |
-| I band                  |            |
-| A band (dark)           |            |
-| H zone                  |            |
-
+| tendon                  | connects muscle to bone |
+| epimysium               | outer connective tissue covering whole muscle |
+| fascicle                | bundle of muscle fibers |
+| muscle fiber            | individual muscle cell |
+| endomysium              | connective tissue around each muscle fiber |
+| sarcolemma              | cell membrane of muscle fiber |
+| nucleus                 | control center of cell; contains DNA |
+| sarcoplasm              | cytoplasm of muscle cell |
+| mitochondria            | produces ATP (energy) |
+| sarcoplasmic reticulum  | stores and releases calcium |
+| T or transverse tubules | carry electrical signals into muscle fiber |
+| myofibrils              | bundles of contractile proteins |
+| myofilaments            | actin and myosin filaments |
+| actin                   | thin filament protein |
+| tropomyosin             | blocks actin binding sites |
+| Thin filament           | actin + regulatory proteins |
+| Thick filament          | myosin filament |
+| Myofibrils              | repeated contractile units in muscle fiber |
+| Myofibril Structure     | arrangement of sarcomeres |
+| sarcomere               | functional unit of contraction |
+| Z discs                 | boundaries of sarcomere |
+| M line                  | center of sarcomere |
+| I band                  | light region (thin filaments only) |
+| A band (dark)           | dark region (thick + thin overlap) |
+| H zone                  | center region (thick filaments only) |
 ## **Prelab Activity 10.2**
 
 ## **Labeling**
@@ -143,16 +151,18 @@ Label the structures, membranes, or layers of the muscle in figures 10.3 and 10.
 
 **Table 10.1 Structure Identification**
 
+## Muscle Structure Identification
+
 | Structure Number | Structure Identification |
 |------------------|--------------------------|
-| 1                | Organ:                   |
-| 2                | Connective tissue layer: |
-| 3                | Organelle:               |
-| 4                | Structure name:          |
-| 5                | Bundle:                  |
-| 6                | Connective tissue layer: |
-| 7                | Connective tissue layer: |
-| 8                | Structure:               |
+| 1                | Organ: Skeletal muscle |
+| 2                | Connective tissue layer: Epimysium |
+| 3                | Organelle: Nucleus |
+| 4                | Structure name: Muscle fiber |
+| 5                | Bundle: Fascicle |
+| 6                | Connective tissue layer: Perimysium |
+| 7                | Connective tissue layer: Endomysium |
+| 8                | Structure: Myofibril |
 
 ### Label the following structures of the skeletal muscle:
 
@@ -161,22 +171,22 @@ Label the structures, membranes, or layers of the muscle in figures 10.3 and 10.
 **Figure 10.4** Unlabeled Muscle Fiber.
 
 **Table 10.2 Muscle Histology Identification**
+## Myofibril / Muscle Fiber Identification
 
 | Structure Number | Structure Identification |
 |------------------|--------------------------|
-| 1                | Organelle:               |
-| 2                | Surface layer:           |
-| 3                | Organelle:               |
-| 4                | Internal gel:            |
-| 5                | Filament name:           |
-| 6                | Filament type:           |
-| 7                | line:                    |
-| 8                | Band:                    |
-| 9                | Filament type:           |
-| 10               | Band:                    |
-| 11               | Band:                    |
-| 12               | Band:                    |
-
+| 1                | Organelle: Mitochondria |
+| 2                | Surface layer: Sarcolemma |
+| 3                | Organelle: Nucleus |
+| 4                | Internal gel: Sarcoplasm |
+| 5                | Filament name: Actin |
+| 6                | Filament type: Thin filament |
+| 7                | Line: Z disc |
+| 8                | Band: I band |
+| 9                | Filament type: Thick filament (myosin) |
+| 10               | Band: A band |
+| 11               | Band: H zone |
+| 12               | Band: M line |
 ## **Lab Activities**
 
 ## **Skeletal Muscle Cell Microscopic Structure and Gross Structures**
@@ -189,22 +199,40 @@ Label the structures, membranes, or layers of the muscle in figures 10.3 and 10.
 
 ## **Lab Activity 10.1**
 
-Compare and contrast the three muscle tissue types: Skeletal muscle, Smooth muscle, and Cardiac muscle.
+## Compare Muscle Tissue Types
 
--   Working in groups of two get a microscope from the storage cabinet and a slide of the skeletal, cardiac and muscle cells.
--   Focus on the slide and once you have found the images on the slides provided in the lab, increase your magnification to 400x. Find a section where you can clearly identify the unique structural features described in the background information of your textbook. Draw and label the microscopic structures of all each of the three muscle tissue types in the spaces provided.
--   Next take a picture with your cellphone. Upload the screenshot into a PPT folder and label the parts of each muscle tissue.
--   Draw and label the three types of muscle cells in the table below.
+### Summary Comparison
 
-| Cell type:     | Cell type:     |
-|----------------|----------------|
-| Magnification: | Magnification: |
-|                |                |
+| Feature | Skeletal Muscle | Smooth Muscle | Cardiac Muscle |
+|--------|-----------------|---------------|----------------|
+| Location | Attached to bones | Walls of organs | Heart |
+| Shape | Long, cylindrical | Spindle-shaped | Branching |
+| Control | Voluntary | Involuntary | Involuntary |
+| Striations | Yes | No | Yes |
+| Nuclei | Multiple | Single | Single |
+| Special features | Movement | Organ contraction | Intercalated discs |
 
-| Cell type:     | Cell type:     |
-|----------------|----------------|
-| Magnification: | Magnification: |
-|                |                |
+---
+
+## Lab Activity (Microscope Observations)
+
+- Skeletal muscle: **visible striations, multiple nuclei**  
+- Smooth muscle: **no striations, spindle shape**  
+- Cardiac muscle: **striations + branching + intercalated discs**  
+
+---
+
+## Drawing Table
+
+| Cell type: Skeletal Muscle | Cell type: Smooth Muscle |
+|----------------------------|--------------------------|
+| Magnification: 400x        | Magnification: 400x      |
+| Long fibers, striated, multinucleated | Spindle-shaped, no striations |
+
+| Cell type: Cardiac Muscle | Cell type: |
+|---------------------------|------------|
+| Magnification: 400x       | Magnification: |
+| Branching cells, striated, intercalated discs | |
 
 The following cells may be used for review after class. Virtual muscle review source from University of Michigan Virtual Microscope:
 
@@ -266,37 +294,35 @@ Sarcolemma Sarcoplasm Sarcoplasmic reticulum T tubules Nuclei Mitochondria Myofi
 
 **Figure 10.8** Skeletal Muscle Fiber.
 
-## **Lab Activity 10.4:**
+## Lab Activity 10.4 – Sarcomere
 
--   Obtain the model of the sarcomere from your storage area for this exercise.
+### Structures and Functions
 
--   Identify and label the components of the sarcomere in the list below.
+- Sarcomere **functional unit of muscle contraction (Z disc to Z disc)**  
+- A band **dark region; contains thick + thin filaments**  
+- I band **light region; thin filaments only**  
+- Z disc (Z line) **boundary of sarcomere; anchors actin**  
+- H zone **center region; thick filaments only**  
+- M line **middle of sarcomere; anchors myosin**  
+- Thick filament **myosin; pulls actin during contraction**  
+- Myosin **motor protein that generates force**  
+- Thin filament **actin + regulatory proteins**  
+- Actin **protein that slides during contraction**  
+- Troponin **binds calcium; allows contraction to start**  
+- Tropomyosin **blocks/unblocks actin binding sites**  
 
--   Using your cellphone create a five-minute video explaining the structure and function of the sarcomere.
+---
 
--   Sarcomere
+### Quick Video Script (5 min)
 
--   A band
-
--   I band.
-
--   Z disc (Z line)
-
--   H zone
-
--   M line
-
--   Thick filament
-
--   Myosin
-
--   Thin filament
-
--   Actin
-
--   Troponin
-
--   Tropomyosin
+- The **sarcomere** is the basic unit of muscle contraction.  
+- It extends from one **Z disc to another Z disc**.  
+- The **A band** is dark because it contains both thick and thin filaments.  
+- The **I band** is light because it has only thin filaments.  
+- The **H zone** is the center region with only thick filaments.  
+- The **M line** holds the thick filaments together.  
+- During contraction, **myosin pulls actin**, shortening the sarcomere.  
+- **Troponin and tropomyosin regulate** this process using calcium.  
 
 ![](images/_page_258_Figure_13.jpeg)
 
@@ -335,34 +361,33 @@ Sarcolemma Sarcoplasm Sarcoplasmic reticulum T tubules Nuclei Mitochondria Myofi
 
 ## **Matching**
 
-**Table 10.1 Identify the Muscle Tissue Type (Note: there may be more than one correct muscle type per answer)**
+## Table 10.1 Identify the Muscle Tissue Type
 
 | Answers | Characteristics                       | Choices  |
 |---------|---------------------------------------|----------|
-|         | Involuntary                           | Cardiac  |
-|         | Banded/striated                       | Smooth   |
-|         | Coordinated activity – acts in a pump | Skeletal |
-|         | Moves facial skin and the bones       |          |
-|         | Voluntary                             |          |
-|         | Tapered                               |          |
-|         | Longitudinal and circular layers      |          |
-|         | Cord-like                             |          |
-|         | Multiple nuclei                       |          |
-|         | Branched                              |          |
-|         | Single nucleus                        |          |
+| Cardiac, Smooth | Involuntary                           | Cardiac  |
+| Skeletal, Cardiac | Banded/striated                       | Smooth   |
+| Cardiac | Coordinated activity – acts in a pump | Skeletal |
+| Skeletal | Moves facial skin and the bones       |          |
+| Skeletal | Voluntary                             |          |
+| Smooth | Tapered                               |          |
+| Smooth | Longitudinal and circular layers      |          |
+| Skeletal | Cord-like                             |          |
+| Skeletal | Multiple nuclei                       |          |
+| Cardiac | Branched                              |          |
+| Smooth, Cardiac | Single nucleus                        |          |
 
-## **Table 10.2 Identify the Facia Type**
+---
 
-Write the correct choice or choices in the "Answers" column.
+## Table 10.2 Identify the Fascia Type
 
 | Answers | Definitions | Choices |
-|------------------------|------------------------|------------------------|
-|  | Muscle fiber cell membrane | Endomysium |
-|  | Surrounds the whole muscle | Perimysium |
-|  | Connective tissue that covers the body under the skin as well as the whole muscles. | Exomysium |
-|  | Thin layer of connective tissue that surrounds the muscle fibers cell membrane | Sarcolemma |
-|  | Surrounds a group of fasciculi. | Facia |
-
+|---------|------------------------|------------------------|
+| Sarcolemma | Muscle fiber cell membrane | Endomysium |
+| Epimysium | Surrounds the whole muscle | Perimysium |
+| Epimysium | Connective tissue that covers the body under the skin and whole muscles | Exomysium |
+| Endomysium | Thin layer around muscle fiber | Sarcolemma |
+| Perimysium | Surrounds a group of fascicles | Facia |
 ## **Post Lab Activity 10.2**
 
 #### Identification
@@ -370,17 +395,16 @@ Write the correct choice or choices in the "Answers" column.
 Identify and label the parts of the myofibril.
 
 ![](images/_page_262_Picture_3.jpeg)
+## Figure 10.12 Unlabeled Sarcomere
 
-Figure 10.12 Unlabeled Sarcomere.
-
-1.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-2.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-3.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-4.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-5.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-6.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-7.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-8.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+1. Sarcomere  
+2. Z disc (Z line)  
+3. I band  
+4. A band  
+5. H zone  
+6. M line  
+7. Thin filament (actin)  
+8. Thick filament (myosin)  
 
 ## **Post Lab Activity 10.3**
 
@@ -390,39 +414,39 @@ Complete the crossword puzzles.
 
 ![](images/_page_263_Picture_3.jpeg)
 
-**Figure 10.13** Skeletal Muscle Fibers.
+## Figure 10.13 – Skeletal Muscle Fibers Crossword
 
-### **Across**
+### Across
 
--   **3** The myofibrils of \_\_\_\_\_ muscle are not aligned, so that the muscle appears to be \_\_\_\_\_. (6,6)
--   **4** Muscle cells are also called muscle \_\_\_\_\_. (6)
--   **6** There are two types of \_\_\_\_\_, actin and myosin. (11)
--   **7** Within a skeletal muscle, a connective tissue membrane called the \_\_\_\_ surrounds each fascicle (10)
--   **9** A group of muscle fibers is called a muscle \_\_\_\_\_, which means 'bundle'. (8)
--   **10** Cardiac muscle fibers contain large numbers of \_\_\_\_\_, which provides the power to allow them to have incredible endurance. (12)
+- 3 Smooth, nonstriated  
+- 4 Fibers  
+- 6 Myofilaments  
+- 7 Perimysium  
+- 9 Fascicle  
+- 10 Mitochondria  
 
-### **Down**
+### Down
 
--   **1** For many muscles, the connective tissue membranes within the muscle merge at the ends with a connective tissue 'rope' called a(n) \_\_\_\_\_. (6)
--   **2** When a muscle attaches directly to a bone, rather than to a tendon which is attached to a bone, the \_\_\_\_\_ of the muscle fuses with the \_\_\_\_\_ of the bone. (9,10)
--   **3** A(n) \_\_\_\_\_ is the smallest contractile unit of a skeletal muscle: it extends from one Z-disk to the next. (9)
--   **5** Each muscle fiber is enclosed in a delicate, areolar connective tissue sheath called the \_\_\_\_\_. (10)
--   **8** Much of the heat in the body is produced by \_\_\_\_\_ muscle. (8)
-
+- 1 Tendon  
+- 2 Epimysium, periosteum  
+- 3 Sarcomere  
+- 5 Endomysium  
+- 8 Skeletal  
 ![](images/_page_265_Picture_0.jpeg)
 
-**Figure 10.14** Skeletal Muscle Fibers-2.
+## Figure 10.14 – Skeletal Muscle Fibers-2
 
--   **5** There are two types of \_\_\_\_\_, actin and myosin. (11)
--   **6** Action potentials that are carried deep into the cell signal the sarcoplasmic reticulum to \_\_\_\_\_. (7)
--   **7** In a skeletal muscle fiber, after tropomyosin shifts in response to calcium, \_\_\_\_\_ binds to actin. (6)
--   **9** The smooth endoplasmic reticulum (smooth ER) of muscle cells is called the \_\_\_\_\_. (12,9)
--   **10** \_\_\_\_\_ are found at each end of the sarcomere. (1,5)
+### Across
 
-### **Down**
+- 5 Myofilaments  
+- 6 Release  
+- 7 Myosin  
+- 9 Sarcoplasmic reticulum  
+- 10 Z discs  
 
-**8** Skeletal muscle fibers are formed when several stem cells merge: as a result, skeletal muscle fibers have \_\_\_\_\_ (8,6)
+### Down
 
+- 8 Multiple nuclei  
 ## **Crossword Puzzle Solutions**
 
 ## **Figure 10.13. Skeletal muscle fibers.**

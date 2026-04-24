@@ -81,84 +81,108 @@ In this lab you will learn about the articulations and the joints of the skeleta
 
 ## **Prelab Activity 9.1:**
 
--   Range of motion
-    -   Amphiarthrotic \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Synarthrotic \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Diarthrotic \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Fibrous joints \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Syndesmosis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Suture \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Gomphosis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Cartilaginous joints \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Synchondrosis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Symphysis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Synovial joints \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## Joints and Movement
+
+### Range of Motion
+
+- Amphiarthrotic **slightly movable joints**  
+- Synarthrotic **immovable joints**  
+- Diarthrotic **freely movable joints (synovial)**  
+
+---
+
+### Fibrous Joints
+
+- Fibrous joints **bones connected by dense connective tissue; little/no movement**  
+- Syndesmosis **bones connected by ligament; slight movement**  
+- Suture **immovable joints in skull**  
+- Gomphosis **tooth anchored in socket**  
+
+---
+
+### Cartilaginous Joints
+
+- Cartilaginous joints **bones connected by cartilage; limited movement**  
+- Synchondrosis **hyaline cartilage; no movement**  
+- Symphysis **fibrocartilage; slight movement**  
+
+---
+
+### Synovial Joints
+
+- Synovial joints **freely movable joints with fluid-filled cavity**  
+
+---
 
 ### Synovial Joint Components
 
--   Synovial membrane \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Articular cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Joint cavity \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Articular cavity \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Bursae \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Synovial membrane **produces synovial fluid**  
+- Articular cartilage **reduces friction and absorbs shock**  
+- Joint cavity **space containing synovial fluid**  
+- Articular cavity **same as joint cavity**  
+- Bursae **fluid-filled sacs reducing friction**  
+
+---
 
 ### Knee Joint Anatomy
 
--   Quadriceps tendon \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Patellar ligament \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Anterior cruciate ligament \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Posterior cruciate ligament \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Tibial (medial) collateral ligament \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Fibular (lateral) collateral ligament \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Medial meniscus \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Lateral meniscus \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Quadriceps tendon **connects quadriceps to patella**  
+- Patellar ligament **connects patella to tibia**  
+- Anterior cruciate ligament (ACL) **prevents anterior movement of tibia**  
+- Posterior cruciate ligament (PCL) **prevents posterior movement of tibia**  
+- Tibial (medial) collateral ligament **stabilizes inner knee**  
+- Fibular (lateral) collateral ligament **stabilizes outer knee**  
+- Medial meniscus **shock absorber; inner knee**  
+- Lateral meniscus **shock absorber; outer knee**  
 
-### Types of Synovial Joint Movements:
+---
 
--   Gliding movements \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Angular movements \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Flexion \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Extension \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Hyperextension \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Abduction \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Adduction \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Circumduction \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Rotational movements
-    -   Medial \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Lateral \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Right \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Left \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Special movements
-    -   Supination \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Pronation \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   **Opposition** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   **Reposition** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   **Eversion** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   **Inversion** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   **Protraction** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   **Retraction** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   **Elevation** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   **Depression** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   **Dorsiflexion** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   **Plantar flexion** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+### Types of Synovial Joint Movements
 
+- Gliding movements **sliding motion between flat surfaces**  
+
+- Angular movements **change angle between bones**  
+  - Flexion **decreases angle**  
+  - Extension **increases angle**  
+  - Hyperextension **extends beyond normal**  
+  - Abduction **away from midline**  
+  - Adduction **toward midline**  
+  - Circumduction **circular movement**  
+
+- Rotational movements  
+  - Medial rotation **toward midline**  
+  - Lateral rotation **away from midline**  
+  - Right rotation **turn right**  
+  - Left rotation **turn left**  
+
+- Special movements  
+  - Supination **palm up**  
+  - Pronation **palm down**  
+
+- Opposition **thumb to fingers**  
+- Reposition **return thumb**  
+- Eversion **sole outward**  
+- Inversion **sole inward**  
+- Protraction **move forward**  
+- Retraction **move backward**  
+- Elevation **move upward**  
+- Depression **move downward**  
+- Dorsiflexion **toes upward**  
+- Plantar flexion **toes downward**  
 ## **Prelab Activity 9.2**
 
 ### Fill in the table.
 
-From your text, p. 180, complete the table below.
-
-Table 9.1 Table of Synovial Joints, their Motion and Location
+## Table 9.1 Synovial Joints, Motion, and Location
 
 | Synovial joint types   | Motion type | Location |
 |------------------------|-------------|----------|
-| plane joints (gliding) |             |          |
-| ball and socket joints |             |          |
-| hinge joints           |             |          |
-| pivot joints           |             |          |
-| condyloid joints       |             |          |
-| saddle joints          |             |          |
-
+| plane joints (gliding) | Gliding     | Intercarpal joints (wrist) |
+| ball and socket joints | Multiaxial  | Shoulder, hip |
+| hinge joints           | Uniaxial    | Elbow, knee |
+| pivot joints           | Uniaxial (rotation) | Atlas-axis, proximal radioulnar |
+| condyloid joints       | Biaxial     | Wrist (radiocarpal) |
+| saddle joints          | Biaxial     | Thumb (carpometacarpal) |
 ## **Lab Activities**
 
 ## **Joint Structure and Movements**
@@ -431,23 +455,19 @@ In this section you will review and identify the movements of the synovial joint
 
 ![](images/_page_241_Picture_3.jpeg)
 
-**Figure 9.17** The Articulations.
+## Figure 9.17 – Articulations Crossword
 
-### **Across**
+### Across
 
--   **2** modified ball-and-socket joints; range of motion is biaxial (9)
+- 2 Condyloid  
+- 4 Saddle  
+- 5 Pivot  
+- 6 Hinge  
 
--   **4** two saddle shaped surfaces at right angles; biaxial movement (6)
+### Down
 
--   **5** cylindrical process rotates within a ring: monaxial rotation (5)
-
--   **6** convex cylinder applied to a concavity; monoaxial movement (5)
-
-### **Down**
-
--   **1** round head fitting into a round depression; multiaxial (4-3-6)
-
--   **3** Two opposed flat surfaces approximately equal in size; monaxial movement is gliding or slightly twisting (5)
+- 1 Ball-and-socket  
+- 3 Plane  
 
 ## **Post Lab Activity 9.2**
 
@@ -455,21 +475,23 @@ In this section you will review and identify the movements of the synovial joint
 
 **Table 9.2 Match the Correct Term with the Definition to the Left**
 
+## Joints Matching
+
 | Answer | Definition | Term |
-|------------------------|------------------------|------------------------|
-|  | 1\. A(n) \_\_\_\_\_, or joint, is any site where two bones meet. | a\. diarthrotic |
-|  | 2\. The three functional classifications for joints are \_\_\_\_\_, \_\_\_\_\_, and \_\_\_\_\_. | b\. synovial |
-|  | 3\. A joint that is immobile is a(n) \_\_\_\_\_ joint. | c\. synarthrotic; fibrous |
-|  | 4\. A joint that allows only a small amount of movement is a(n) \_\_\_\_\_ joint. | d\. Bursae |
-|  | 5\. A freely movable joint is a(n) \_\_\_\_\_ joint. | e\. structure; function |
-|  | 6\. Sutures are joints that are \_\_\_\_\_ (function) and \_\_\_\_ (structure). | f\. synarthrotic; amphiarthrotic; diarthrotic |
-|  | 7\. Gomphoses are classified as \_\_\_\_ (function) and \_\_\_\_\_ (structure). | g\. synarthrotic |
-|  | 8\. Most joints in the body are \_\_\_\_\_. | h\. fibrous |
-|  | 9\. \_\_\_\_\_ are flattened, fibrous sacs lined with synovial membranes and containing synovial fluid. | i\. fibrous; cartilaginous; synovial |
-|  | 10\. For \_\_\_\_\_ joints, there is no joint cavity and the joints themselves are synarthrotic or at most amphiarthrotic. The bones are joined by fibrous connective tissue and their function is more to prevent separation than to resist compression. | j\. articulation |
-|  | 11\. The three structural classifications for joints are \_\_\_\_\_, \_\_\_\_\_, and \_\_\_\_\_. | k\. synarthrotic; amphiarthrotic; |
-|  | 12\. The three functional classifications for joints are \_\_\_\_\_, \_\_\_\_\_, and \_\_\_\_\_. | l\. amphiarthrotic |
-|  | 13\. Joints are classified by two criteria: \_\_\_\_\_ and \_\_\_\_\_. | m\. synarthrotic; fibrous |
+|--------|------------|------|
+| j | 1. A(n) articulation, or joint, is any site where two bones meet. | articulation |
+| f | 2. The three functional classifications for joints are synarthrotic, amphiarthrotic, and diarthrotic. | synarthrotic; amphiarthrotic; diarthrotic |
+| g | 3. A joint that is immobile is a(n) synarthrotic joint. | synarthrotic |
+| l | 4. A joint that allows only a small amount of movement is a(n) amphiarthrotic joint. | amphiarthrotic |
+| a | 5. A freely movable joint is a(n) diarthrotic joint. | diarthrotic |
+| m | 6. Sutures are joints that are synarthrotic (function) and fibrous (structure). | synarthrotic; fibrous |
+| c | 7. Gomphoses are classified as synarthrotic (function) and fibrous (structure). | synarthrotic; fibrous |
+| b | 8. Most joints in the body are synovial. | synovial |
+| d | 9. Bursae are flattened, fibrous sacs lined with synovial membranes and containing synovial fluid. | bursae |
+| h | 10. For fibrous joints, there is no joint cavity. | fibrous |
+| i | 11. The three structural classifications for joints are fibrous, cartilaginous, and synovial. | fibrous; cartilaginous; synovial |
+| f | 12. The three functional classifications for joints are synarthrotic, amphiarthrotic, and diarthrotic. | synarthrotic; amphiarthrotic; diarthrotic |
+| e | 13. Joints are classified by two criteria: structure and function. | structure; function |
 
 ## **Post Lab Activity 9.3**
 

@@ -159,7 +159,7 @@ Bone Features: Review the information in table 7.1 before moving on to the next 
 Table 7.1 General Types Bone Features
 
 | Marking    | Description                    | Example                         |
-|------------|--------------------------------|---------------------------------|
+|------------------|---------------------------|---------------------------|
 | Head       | Prominent rounded surface      | Head of femur                   |
 | Facet      | Flat surface                   | Articular facets of vertebrae   |
 | Condyle    | Rounded surface                | Occipital condyle               |
@@ -478,7 +478,7 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 **Table 7.3 Match the Term with the Best Definition.**
 
 | Letter | Definition | Term |
-|----|----|----|
+|-----------------|---------------------------------------|-----------------|
 | 1\. | The cribriform plate is a surface filled with small foramina on the bone | a\. turbulence |
 | 2\. | The nasal conchae create, which increases the ability of the nose to trap dust. | b\. zygomatic |
 | 3\. | The of the mandible articulate with the temporal bone. | c\. nasal |
@@ -490,7 +490,7 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 **Table 7.4 Match the Term with the Best Definition.**
 
 | Letter | Definition | Term |
-|----|----|----|
+|---------------|-----------------------------------------|----------------|
 | 1\. | Main weight bearing portion of the vertebrae | a\. axis |
 | 2\. | Two parts of the vertebral arch that protect the spinal cord | b\. Thoracic vertebra |
 | 3\. | Contains the spinal cord | c\. lumbar vertebrae |
@@ -647,7 +647,7 @@ Name the bones.
 |                       | 9 passage         |
 
 | Terms | Definitions |
-|----|----|
+|------------------------------------|------------------------------------|
 | alveolar process of the mandible | upper border of mandibular body that contains the lower teeth |
 | alveolar process of the maxilla | curved, inferior margin of the maxilla that supports and anchors the upper teeth |
 | angle of the mandible | rounded corner located at outside margin of the body and ramus junction |
