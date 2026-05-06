@@ -268,7 +268,7 @@ Definitions: define the terms that are essential to this chapter.
 ## Body Cavities
 
 | Cavity      | Location   | Organs                           | Function            |
-|-------------|------------|----------------------------------|---------------------|
+|---------------|---------------|---------------------------|----------------|
 | Cranial     | Skull      | Brain                            | Protects brain      |
 | Abdominal   | Abdomen    | Digestive organs                 | Digestion           |
 | Pericardial | Chest      | Heart                            | Protects heart      |
@@ -280,7 +280,7 @@ Definitions: define the terms that are essential to this chapter.
 ## Body Planes
 
 | Plane              | Description         | Division           | Example       |
-|--------------------|---------------------|--------------------|---------------|
+|------------------|-------------------|------------------|-----------------|
 | Sagittal plane     | Divides left/right  | Unequal halves     | Side view     |
 | Midsagittal plane  | Divides equally     | Equal halves       | Midline       |
 | Parasagittal plane | Off-center sagittal | Unequal halves     | Slight side   |
@@ -403,7 +403,7 @@ Use appropriate anatomical and regional terminology to fill in the blanks in the
 ## Directional Terms – Fill in the Blank
 
 | Index | Fill in the blank |
-|----|----|
+|------------------------------------|------------------------------------|
 | 1 | The elbow is located **proximal** to the wrist. |
 | 2 | The umbilicus is located **inferior** to the sternum. |
 | 3 | The nose is located **medial** to the ears. |
@@ -413,128 +413,119 @@ Use appropriate anatomical and regional terminology to fill in the blanks in the
 
 \## **Lab Activity 1.5**
 
-\## **Applying Anatomical and Regional Terminology**
+## Applying Anatomical and Regional Terminology
 
-Next, using the definition of anatomical position and correct anatomical language, take turns with your lab partner to give simple, one-movement verbal instructions to transition from the given starting positions (listed in the table below), so that the other person ends up in anatomical position. Write your detailed step-by-step instructions on the provided table.
+| Starting Position | Instructions Given to Move to Anatomical Position |
+|---|---|
+| **1: From lying face-up on the ground with their head, back, hands, and feet on the floor with both knees bent (Figure 1.7)** | • Extend both knees inferiorly until the lower limbs are straight.<br>• Position the upper limbs at the sides of the trunk.<br>• Rotate the palmar regions anteriorly.<br>• Position the head and torso facing anteriorly. |
+| **2: From a seated position on the floor with their legs straight and arms folded across their chest (Figure 1.8)** | • Extend the torso superiorly into a standing position.<br>• Position the upper limbs at the sides of the trunk.<br>• Rotate the palmar regions anteriorly.<br>• Position the lower limbs together and facing anteriorly.<br>• Position the head facing anteriorly. |
 
-| Starting Position | Instructions Given to Move to<br>Anatomical Position |
-|----|----|
-| Example: Standing from a<br>Half Spinal Twist<br>with the<br>feet placed to the left, the<br>torso twisted away from you<br>and the head facing at a<br>slight angle to the right,<br>away from you.<br>Figure 1.6 | Example:<br>•<br>Rotate the mental region<br>anteriorly and medially.<br>•<br>Rotate the entire body 180<br>degrees to the left.<br>•<br>Position palmar region<br>anteriorly |
-| 1: From lying face-up on the<br>ground with their head,<br>back, hands, and feet on the<br>floor with both knees bent<br>Figure 1.7 |  |
-| 2: From a seated position<br>on the floor with their legs<br>straight and arms folded<br>across their chest<br>Figure 1.8 |  |
+## Sectioning/Body Planes
 
-\## **Sectioning/Body Planes**
+### Body Planes
 
-Using your text, label the planes in the figure below. Draw an oblique plane in the brachial area of the right arm.
+- Sagittal plane – divides the body into left and right portions
 
-## **Body Planes**
+- Midsagittal plane – divides the body into equal left and right halves
 
--   Sagittal plane
+- Parasagittal plane – divides the body into unequal left and right portions
 
--   Midsagittal plane
+- Transverse plane – divides the body into superior and inferior portions
 
--   Parasagittal plane
+- Coronal plane – divides the body into anterior and posterior portions
 
--   Transverse plane
-
--   Coronal plane
-
--   Oblique plane
-
+- Oblique plane – diagonal cut through the body or limb (draw diagonally across the right brachial region)
 ![](_page_13_Figure_10.jpeg)
 
-**Figure 1.9**. Human Anatomical Planes.
+## Sectioning/Body Planes
 
-Indicate what type of planes were used in the following demonstrations:
+### Figure 1.10 Human Head Slice
 
-![](_page_13_Picture_13.jpeg)
+Plane: **Transverse plane**
 
-**Figure 1.10** Human Head slice.
+### Figure 1.11 An Anatomical Illustration from Sobotta's Human Anatomy 1908
 
-Plane:
+Plane: **Midsagittal plane**
 
-![](_page_13_Picture_16.jpeg)
+## Regional Terminology
 
-**Figure 1.11** An anatomical illustration from Sobotta's Human Anatomy 1908.
+- Obtain tape and any of the following models:
+  - A torso model
+  - Mini muscle person torso
+  - Skeleton
 
-Plane:
-
-## **Regional Terminology**
-
--   Obtain tape and any of the following models (a torso model, mini muscle person torso, skeleton)
--   Write the following terms and attach them to your models.
+- Write the following terms and attach them to your models.
 
 ## **Regions of the body,**
 
-## **Axial Region:**
+## Axial Region
 
--   **Cephalic (head)**
-    -   o Cranial
-    -   o Pectoral
-    -   o Facial
-    -   o Frontal forehead
-    -   o Orbital eye
-    -   o Nasal nose
-    -   o Buccal cheek
-    -   o Oral mouth
-    -   o Mental chin
-    -   o Cervical/Nuchal neck
+- **Cephalic (head)**
+  - Cranial
+  - Facial
+  - Frontal (forehead)
+  - Orbital (eye)
+  - Nasal (nose)
+  - Buccal (cheek)
+  - Oral (mouth)
+  - Mental (chin)
+  - Cervical/Nuchal (neck)
 
-## **Appendicular:**
+## Appendicular Region
 
--   **Upper Extremity**
-    -   o Axillary armpit
-    -   o Brachial arm
-    -   o Cubital elbow
-    -   o Antebrachial forearm
-    -   o Carpal wrist
-    -   o Manual hand
-    -   o Digital finger
+### Upper Extremity
 
-## • **Trunk**
+- Axillary (armpit)
+- Brachial (arm)
+- Cubital (elbow)
+- Antebrachial (forearm)
+- Carpal (wrist)
+- Manual (hand)
+- Digital (finger)
 
--   o Thoracic chest
--   o Sternal Clavicular
--   o Acromial shoulder
--   o Abdominal belly
--   o Inguinal groin
--   o Pubic genital
--   o Coxal hip
--   o Vertebral Vertebral column
--   o Lumbar lower back
--   o Sacral
--   o Gluteal (buttocks)
+## Trunk
 
-## • **Lower Extremity**
+- Thoracic (chest)
+- Sternal
+- Clavicular
+- Acromial (shoulder)
+- Abdominal (belly)
+- Inguinal (groin)
+- Pubic (genital)
+- Coxal (hip)
+- Vertebral (vertebral column)
+- Lumbar (lower back)
+- Sacral
+- Gluteal (buttocks)
 
--   o Femoral thigh
--   o Popliteal back of knee
--   o Patellar kneecap
--   o Crural leg
--   o Calcaneal heel
--   o Tarsal ankle
--   o Pedal foot
+## Lower Extremity
 
-![](_page_15_Figure_0.jpeg)
+- Femoral (thigh)
+- Popliteal (back of knee)
+- Patellar (kneecap)
+- Crural (leg)
+- Calcaneal (heel)
+- Tarsal (ankle)
+- Pedal (foot)
 
-**Figure 1.12** The human body is shown in an anatomical position in an (a) anterior view and a (b) posterior view. The regions of the body are labeled in bold face.
+## Body Cavities and Associated Serous Membranes
 
-## **Body Cavities and Associated Serous Membranes**
+### Dorsal Cavity
 
--   **Dorsal Cavity:**
-    -   o Cranial cavity
-    -   o Vertebral cavity
+- Cranial cavity
+- Vertebral cavity
 
-## • **Ventral Cavity:**
+### Ventral Cavity
 
--   o Thoracic cavity
-    -   Mediastinum
-    -   Pleural cavities
-    -   Pericardial cavity
-    -   Diaphragm
--   o Abdominopelvic cavity
-    -   Abdominal cavity
-    -   Pelvic cavity
+- Thoracic cavity
+  - Mediastinum
+  - Pleural cavities
+  - Pericardial cavity
+  - Diaphragm
+
+- Abdominopelvic cavity
+  - Abdominal cavity
+  - Pelvic cavity
 
 ## **Body Cavities and Associated Serous Membranes Continued**
 

@@ -212,9 +212,17 @@ The Integumentary system functions include but are not limited to the following 
 
 ## **Dermis**
 
--   Using one of the lab models, with the assistance of the picture below, locate the two layers of the dermis.
-    -   Locate the papillary ridge.
-    -   Identify the type of connective tissue in each layer.
+## Dermis Layers Identification
+
+- Using one of the lab models, with the assistance of the picture below, locate the two layers of the dermis:
+  - Papillary layer
+  - Reticular layer
+
+- Locate the papillary ridge.
+
+- Identify the type of connective tissue in each layer:
+  - Papillary layer – areolar connective tissue
+  - Reticular layer – dense irregular connective tissue
 
 ![](images/_page_106_Picture_7.jpeg)
 
@@ -417,22 +425,22 @@ Match the statement blank with the correct answer.
 ## Integumentary System Matching
 
 | Answer | Statement | Correct Answer |
-|----------------|----------------------------------------|----------------|
-| a\. | The epidermis is composed of \_\_\_\_\_\_\_\_\_\_. | squamous epithelial tissue |
-| b\. | The deepest layer of the epidermis. | stratum basale |
-| c\. | The majority of the cells of the epidermis are \_\_\_\_\_\_\_\_\_\_, so-called because they make \_\_\_\_\_\_\_\_\_\_. | keratinocytes; keratin |
-| d\. | Melanocytes are located in the \_\_\_\_\_\_\_\_\_\_ (which layer?). | stratum basale |
-| e\. | Immune cells in the stratum spinosum which protect against invaders are the \_\_\_\_\_\_\_\_\_\_. | Langerhans' cells |
-| f\. | A very thin layer called the \_\_\_\_\_\_\_\_\_\_ is in the epidermis but is visible only in thick skin. | stratum lucidum |
-| g\. | The first level of protection against abrasion and toxic chemicals at the body's surface is provided by the \_\_\_\_\_\_\_\_\_\_. | stratum corneum |
-| h\. | The dermis consists of two layers: the \_\_\_\_\_\_\_\_\_\_, which is characterized by a dimpled interface with the epidermis, and the \_\_\_\_\_\_\_\_\_\_, which accounts for 80% of the skin's thickness | papillary layer; reticular layer |
-| i\. | The reticular layer of the dermis contains \_\_\_\_\_\_\_\_\_\_ to sense firm pressure. | Pacinian corpuscles |
-| j\. | Apocrine and eccrine glands are both \_\_\_\_\_\_\_\_\_\_ (sweat) glands. | sudoriferous |
-| k\. | \_\_\_\_\_\_\_\_\_\_ glands produce a waxy substance to protect the ear canal from dust, small insects, etc. | ceruminous |
-| l\. | The portion of the hair that is above the surface of the skin is called the \_\_\_\_\_\_\_\_\_\_. | hair shaft |
-| m\. | The sub-surface portion of the hair is called the \_\_\_\_\_\_\_\_\_\_. | root |
-| n\. | The origin of the hair shaft, deep within the dermis, is called the \_\_\_\_\_\_\_\_\_\_. | hair bulb |
-| o\. | The sheath in which a hair is held is called \_\_\_\_\_\_\_\_\_\_. | follicle |
+|---|---|---|
+| a. | The epidermis is composed of __________. | squamous epithelial tissue |
+| b. | The deepest layer of the epidermis. | stratum basale |
+| c. | The majority of the cells of the epidermis are __________, so-called because they make __________. | keratinocytes; keratin |
+| d. | Melanocytes are located in the __________ (which layer?). | stratum basale |
+| e. | Immune cells in the stratum spinosum which protect against invaders are the __________. | Langerhans' cells |
+| f. | A very thin layer called the __________ is in the epidermis but is visible only in thick skin. | stratum lucidum |
+| g. | The first level of protection against abrasion and toxic chemicals at the body's surface is provided by the __________. | stratum corneum |
+| h. | The dermis consists of two layers: the __________, which is characterized by a dimpled interface with the epidermis, and the __________, which accounts for 80% of the skin's thickness. | papillary layer; reticular layer |
+| i. | The reticular layer of the dermis contains __________ to sense firm pressure. | Pacinian corpuscles |
+| j. | Apocrine and eccrine glands are both __________ (sweat) glands. | sudoriferous |
+| k. | __________ glands produce a waxy substance to protect the ear canal from dust, small insects, etc. | ceruminous |
+| l. | The portion of the hair that is above the surface of the skin is called the __________. | hair shaft |
+| m. | The sub-surface portion of the hair is called the __________. | root |
+| n. | The origin of the hair shaft, deep within the dermis, is called the __________. | hair bulb |
+| o. | The sheath in which a hair is held is called __________. | follicle |
 
 ## **Post Lab Activity 5.3**
 

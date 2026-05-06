@@ -396,19 +396,20 @@ Complete the following crossword puzzles.
 
 ## Bone Matching
 
-| Answer | Statement | Term(s) |
-|---------------|----------------------------------|-----------------------|
-| d\) | Articular cartilage covers ends of long bones. | Articular |
-| e\) | Skeletal cartilage is enclosed by the \_\_\_\_\_\_\_\_\_\_. | perichondrium |
-| h\) | The bones of the limbs, shoulders, and hips make up the \_\_\_\_\_\_\_\_\_\_ skeleton. | appendicular |
-| i\) | Cancellous bone is found in the \_\_\_\_\_\_\_\_\_\_ of long bones. | epiphyses |
-| g\) | \_\_\_\_\_\_\_\_\_\_ is found in the central (medullary) cavity of an adult's long bones and is composed of fat. | Yellow marrow |
-| b\) | Articular cartilage is composed of \_\_\_\_\_\_\_\_\_\_. | hyaline cartilage |
-| j\) | The inner surface of the bone is covered by the \_\_\_\_\_\_\_\_\_\_. | endosteum |
-| f\) | The tubular shaft of long bones is called the \_\_\_\_\_\_\_\_\_\_. | diaphysis |
-| a\) | The bones of the skull, rib cage, and vertebral column make up the \_\_\_\_\_\_\_\_\_\_ skeleton. | axial |
-| c\) | The line separating diaphysis and epiphysis is the \_\_\_\_\_\_\_\_\_\_. | epiphyseal line |
+## Skeletal System Matching
 
+| Answer | Statement | Term(s) |
+|---|---|---|
+| a) | The bones of the skull, rib cage, and vertebral column make up the __________ skeleton. | axial |
+| b) | Articular cartilage is composed of __________. | hyaline cartilage |
+| c) | The line separating diaphysis and epiphysis is the __________. | epiphyseal line |
+| d) | Articular cartilage covers ends of long bones. | Articular |
+| e) | Skeletal cartilage is enclosed by the __________. | perichondrium |
+| f) | The tubular shaft of long bones is called the __________. | diaphysis |
+| g) | __________ is found in the central (medullary) cavity of an adult's long bones and is composed of fat. | Yellow marrow |
+| h) | The bones of the limbs, shoulders, and hips make up the __________ skeleton. | appendicular |
+| i) | Cancellous bone is found in the __________ of long bones. | epiphyses |
+| j) | The inner surface of the bone is covered by the __________. | endosteum |
 ## **Post Lab Activity 6.3**
 
 ## **Labeling**

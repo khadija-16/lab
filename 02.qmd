@@ -66,26 +66,27 @@ Identify the following parts and functions of the microscope above.
 
 Match the microscope part with its definition.
 
-| Microscope Part | Definitions |
-|----|----|
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Condenser | \(a\) The light source in the bottom of the microscope, also known as the illuminator. |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Revolving Turret | \(b\) Also known as the body- carries the oculars. |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Mechanical stage\\ | \(c\) The microscope supports. |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Ocular lens | \(d\) The part connecting the head and the base. |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Power switch | \(e\) The lens closest to the eye |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Iris diaphragm | \(f\) The major lenses closest to the specimen |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Arm | \(g\) Also known as the nosepiece-holds the objective lenses |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Depth of field | \(h\) Knob that makes large scales adjustments in the focus |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Fine focus | \(i\) The knob that makes small adjustments in the mechanical stage. |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ X-Y stage controls | \(j\) Set of lenses that collect and focus the light onto the specimen. |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Light source | \(k\) Controls the amount of light reaching the specimen. |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Total magnification | \(l\) Controls that move the slide vertically and horizontality on the stage |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Head | \(m\) Calculated by multiplying the ocular magnification by the objective magnification. |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Base | \(n\) The visible area one can see through the oculars. |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Objective lens | \(o\) The measure of the thickness or the specimen in focus |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Course focus | \(p\) The switch used to turn the microscope on and off. |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Field of view | \(q\) The section in which the specimen is placed for viewing. |
+## Microscope Parts Matching
 
+| Microscope Part | Definitions |
+|---|---|
+| Condenser | (j) Set of lenses that collect and focus the light onto the specimen. |
+| Revolving Turret | (g) Also known as the nosepiece—holds the objective lenses. |
+| Mechanical stage | (q) The section in which the specimen is placed for viewing. |
+| Ocular lens | (e) The lens closest to the eye. |
+| Power switch | (p) The switch used to turn the microscope on and off. |
+| Iris diaphragm | (k) Controls the amount of light reaching the specimen. |
+| Arm | (d) The part connecting the head and the base. |
+| Depth of field | (o) The measure of the thickness of the specimen in focus. |
+| Fine focus | (i) The knob that makes small adjustments in the mechanical stage. |
+| X-Y stage controls | (l) Controls that move the slide vertically and horizontally on the stage. |
+| Light source | (a) The light source in the bottom of the microscope, also known as the illuminator. |
+| Total magnification | (m) Calculated by multiplying the ocular magnification by the objective magnification. |
+| Head | (b) Also known as the body—carries the oculars. |
+| Base | (c) The microscope supports. |
+| Objective lens | (f) The major lenses closest to the specimen. |
+| Coarse focus | (h) Knob that makes large scale adjustments in the focus. |
+| Field of view | (n) The visible area one can see through the oculars. |
 ## **Lab Activities**
 
 ## **Magnification**
@@ -263,7 +264,7 @@ In this case “A” represents the known field information of the measured fiel
     d.  Finally, take a break when needed! Chapter 2: Microscopy Glossary
 
 | Term | Definition |
-|----|----|
+|------------------------------------|------------------------------------|
 | binocular | a microscope having two eyepieces |
 | brightfield microscope, | a compound microscope with two or more lenses that produce a dark image on a bright background. |
 | coarse focusing knob | used for large-scale movements with 4⨯ and 10⨯ objective lenses |
