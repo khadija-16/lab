@@ -186,13 +186,15 @@ How to determine the field of view:
 
 -   Arrange the slide so that the horizontal line is aligned along the midline of the field as seen above. Align one of the vertical lines so that it is at the edge of your field of view, as you can see on the right side of the picture. The space between the leading edge of the horizontal lines is 1 mm in distance, see the yellow bar.
 
-1.  Measure the distance of the field of view for the scanning lens (4X)
-    a.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ mm.
-    b.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ um
-2.  Measure the distance of the field of view for the low power lens (10x)
-    a.  \_\_\_\_\_\_\_\_\_\_ mm
-    b.  \_\_\_\_\_\_\_\_\_\_ um
+## Field of View Measurements
 
+1. Measure the distance of the field of view for the scanning lens (4X)
+   a. 4.5 mm  
+   b. 4500 um  
+
+2. Measure the distance of the field of view for the low power lens (10X)
+   a. 1.8 mm  
+   b. 1800 um  
 When you use the high-power and oil-immersion lenses you should not be able to measure the field of view directly. At this point you will have to calculate the field of view. This calculation is a simple conversion using the formula below:
 
 **Conversion Formula:** (Diameter of the field; A) X (Total Magnification: A) = (Diameter of the field; B) X (Total Magnification: B)

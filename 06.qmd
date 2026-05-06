@@ -223,9 +223,15 @@ Review the Information in this table before moving on to the next activity.
 
 ## **Lab Activity 6.2.**
 
--   Bones are organs that contain diverse shapes and features. In your assigned group, obtain a set of disarticulated bones or an articulated skeleton from the classroom lab supplies.
--   Use the information from your text and Table 6.2 to locate and identify the features in table 6.2 .
--   When you identify a feature, label it using tape and have your group mates confirm the identification. Ask your instructor to confirm your identification.
+## Bone Features Identification Activity
+
+| Task | Answer |
+|---|---|
+| Materials used | Disarticulated bones or articulated skeleton |
+| Purpose of activity | Locate and identify bone features from Table 6.2 |
+| How to label identified features | Use tape labels |
+| Who confirms identification first | Group mates |
+| Final confirmation | Instructor |
 
 ![](images/_page_136_Picture_0.jpeg)
 
@@ -243,14 +249,15 @@ Review the Information in this table before moving on to the next activity.
 
 **Table 6.3 Bone Classifications Based on Shape**
 
-| Classification | Features | Example(s) |
-|----------------|------------------|--------------------------------------|
-| Long | Cylindrical shape; longer than wide |  |
-| Short | Cube shaped length, width, and thickness; relatively equal |  |
-| Flat | Thin and wide curved |  |
-| Irregular | Complex shape |  |
-| Sesamoid | Seed shaped small and round |  |
+## Bone Classification
 
+| Classification | Features | Example(s) |
+|---|---|---|
+| Long | Cylindrical shape; longer than wide | Femur, humerus |
+| Short | Cube shaped; length, width, and thickness relatively equal | Carpals, tarsals |
+| Flat | Thin and wide; curved | Sternum, ribs, scapula |
+| Irregular | Complex shape | Vertebrae, coxal bones |
+| Sesamoid | Seed shaped; small and round | Patella |
 ## **Example of Flat Bones**
 
 ![](images/_page_138_Picture_3.jpeg)
@@ -397,19 +404,20 @@ Complete the following crossword puzzles.
 ## Bone Matching
 
 ## Skeletal System Matching
+## Skeletal System Matching
 
 | Answer | Statement | Term(s) |
 |---|---|---|
-| a) | The bones of the skull, rib cage, and vertebral column make up the __________ skeleton. | axial |
-| b) | Articular cartilage is composed of __________. | hyaline cartilage |
-| c) | The line separating diaphysis and epiphysis is the __________. | epiphyseal line |
-| d) | Articular cartilage covers ends of long bones. | Articular |
-| e) | Skeletal cartilage is enclosed by the __________. | perichondrium |
-| f) | The tubular shaft of long bones is called the __________. | diaphysis |
-| g) | __________ is found in the central (medullary) cavity of an adult's long bones and is composed of fat. | Yellow marrow |
-| h) | The bones of the limbs, shoulders, and hips make up the __________ skeleton. | appendicular |
-| i) | Cancellous bone is found in the __________ of long bones. | epiphyses |
-| j) | The inner surface of the bone is covered by the __________. | endosteum |
+| a) | The bones of the skull, rib cage, and vertebral column make up the axial skeleton. | axial |
+| b) | Articular cartilage is composed of hyaline cartilage. | hyaline cartilage |
+| c) | The line separating diaphysis and epiphysis is the epiphyseal line. | epiphyseal line |
+| d) | Articular cartilage covers ends of long bones. | articular |
+| e) | Skeletal cartilage is enclosed by the perichondrium. | perichondrium |
+| f) | The tubular shaft of long bones is called the diaphysis. | diaphysis |
+| g) | Yellow marrow is found in the central (medullary) cavity of an adult's long bones and is composed of fat. | yellow marrow |
+| h) | The bones of the limbs, shoulders, and hips make up the appendicular skeleton. | appendicular |
+| i) | Cancellous bone is found in the epiphyses of long bones. | epiphyses |
+| j) | The inner surface of the bone is covered by the endosteum. | endosteum |
 ## **Post Lab Activity 6.3**
 
 ## **Labeling**

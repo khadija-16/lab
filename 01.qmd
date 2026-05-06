@@ -411,7 +411,7 @@ Use appropriate anatomical and regional terminology to fill in the blanks in the
 | 5 | A papercut would be considered **superficial**; a puncture wound would be **deep**. |
 | 6 | A wound on the elbow would be **distal** to the shoulder. |
 
-\## **Lab Activity 1.5**
+## Lab Activity 1.5
 
 ## Applying Anatomical and Regional Terminology
 

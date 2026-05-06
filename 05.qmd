@@ -214,15 +214,15 @@ The Integumentary system functions include but are not limited to the following 
 
 ## Dermis Layers Identification
 
-- Using one of the lab models, with the assistance of the picture below, locate the two layers of the dermis:
-  - Papillary layer
-  - Reticular layer
+-## Dermis Layers Activity
 
-- Locate the papillary ridge.
-
-- Identify the type of connective tissue in each layer:
-  - Papillary layer – areolar connective tissue
-  - Reticular layer – dense irregular connective tissue
+| Structure | Answer |
+|---|---|
+| First layer of dermis | Papillary layer |
+| Second layer of dermis | Reticular layer |
+| Structure between epidermis and dermis | Papillary ridge |
+| Connective tissue in papillary layer | Areolar connective tissue |
+| Connective tissue in reticular layer | Dense irregular connective tissue |
 
 ![](images/_page_106_Picture_7.jpeg)
 
